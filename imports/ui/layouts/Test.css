@@ -1,0 +1,118 @@
+body {
+	background-attachment: unset !important;
+    background: linear-gradient(#fd9b8d, #fbbe7e) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+	background: #dddddd !important;
+	height: 90vh;
+	max-height: 500px;
+	border-radius: 30px;
+	margin: 5vh 5vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* --------- GRAPH --------- */
+.graph-section {
+	height: 100%;
+	width: 40%;
+	margin-right: 20px;
+	display: flex;
+	justify-content: center;
+}
+.graph-container {
+	background-color: #feded9;
+	height: 100%;
+	border-radius: 50px;
+	width: 50%;
+	display: flex;
+	align-items: flex-end;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.graph-content {
+	transition: 1s;
+	height: 80%;
+	width: 100%;
+	background: linear-gradient(#a076e8, #b1c4f8);
+	border-radius: 50px;
+}
+
+.cig-count {
+	padding: 20px;
+	display: flex;
+}
+
+/* --------- TITLE SECTION --------- */
+.section-title,
+.section-content {
+	text-align: center;
+}
+
+.section-title {
+	height: 30%;
+}
+
+.section-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 70%;
+}
+.section-content p {
+	font-size: 250%;
+	font-weight: bold;
+}
+
+/* --------- ASIDE --------- */
+aside {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.container-section-aside {
+	height: 50%;
+	display: flex;
+	padding: 0 20px;
+	width: 100%;
+	align-items: center;
+}
+.container-section-aside p {
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.section-content-aside {
+	height: 50%;
+}
+
+.graph-section-aside {
+	max-height: 90%;
+	display: flex;
+}
+
+#positif {
+	background: linear-gradient(#5ccd92, #bfe89c);
+}
+#negatif {
+	background: linear-gradient(#f45d7e, #ec90e9);
+}
+
+.align{
+    text-align: center;
+}
+
+.full {
+    width: 100vw;
+    height: 100vh;
+}
+}
