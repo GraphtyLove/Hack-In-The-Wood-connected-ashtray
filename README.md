@@ -18,6 +18,6 @@ This project was made While the **Hack In The Wood** *vol.2*.
 
 ## Pictures:
 
-![Front of the box] (./assets/front-box.jpg)
-![inside the box] (./assets/inside-the-box.jpg)
-![Back of the box] (./assets/back-box.jpg)
+![Front of the box](./assets/front-box.jpg)
+![inside the box](./assets/inside-the-box.jpg)
+![Back of the box](./assets/back-box.jpg)
