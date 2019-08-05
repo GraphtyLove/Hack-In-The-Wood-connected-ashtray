@@ -1,3 +1,7 @@
+# Web UI
+
+This is the web UI of the ashtrays.
+
 ### Running the app
 
 ```bash
