@@ -12,8 +12,11 @@ We was working with Puripungi. This is a society that recycle the butts in recyc
 This project was made While the **Hack In The Wood** *vol.2*. 
 
 ## Contriutors:
-- [Maxim Berge](https://www.linkedin.com/in/maxim-berge-94b486179/)
-- [Cassandra Caestecker](https://www.linkedin.com/in/cassandra-caestecker/)
+- [Maxim Berge](https://www.linkedin.com/in/maxim-berge-94b486179/) **-> Electronic + Backend**
+- [Cassandra Caestecker](https://www.linkedin.com/in/cassandra-caestecker/) **-> Design + FrontEnd**
+
+*And a special thanks to [Vincent De Gheyndt](https://www.linkedin.com/in/vincent-de-gheyndt/).
+But also to [Bertrand Marlair](https://www.linkedin.com/in/bertrand-marlair/), an amazing coach that helped us break the dead ends!
 
 ## Repo:
 
